@@ -111,7 +111,6 @@ h6:target::before {
 .content ol { line-height: 1.75em; }
 .content ul { line-height: 1.75em; }
 .content a { text-decoration: none; }
-.content a { white-space: pre-wrap; }
 .content a:hover { text-decoration: underline; }
 .content img, .content video { max-width: 100%; }
 .content .header:link,
