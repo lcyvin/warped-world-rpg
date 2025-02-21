@@ -1,4 +1,4 @@
-# Perparing Your Game
+# Preparing Your Game
 
 Roleplaying games involve a lot of improvisation and collaboration, but proper 
 preparation will make this experience much more enjoyable, especially for new GMs.
