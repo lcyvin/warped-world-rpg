@@ -25,5 +25,25 @@ to be able to support games in a myriad of different possible settings the SCP m
 can provide, whether the desire is to run a dungeon-crawl campaign following a Foundation
 mobile task force, to an Anartist gang causing chaos for the U.I.U. and so much more.
 
-This book is provided for free, forever, online at [https://warpedworldrpg.com/]()
+This book is provided for free, forever, online at
+[https://warpedworldrpg.com/](https://warpedworldrpg.com). The source for this book is
+open to collaboration and can be found at
+[https://github.com/lcyvin/warped-world-rpg](https://github.com/lcyvin/warped-world-rpg). 
+
+This book is a non-commercial passion project started by Lucy Vin, who can be found at
+[https://lucyvin.com/](https://lucyvin.com).
+
+## Content Warning
+This book contains themes relating to distortion of reality, and mental manipulation. 
+
+## Attribution
+
+Content relating to the SCP Foundation, including the SCP Foundation logo, is licensed
+under Creative Commons Sharealike 3.0 and all concepts originate from 
+[https://www.scp-wiki.wikidot.com](https://www.scp-wiki.wikidot.com/) and its authors. 
+Warped World, being derived from  this content, is hereby also released under Creative
+Commons Sharealike 3.0. 
+
+A full copy of the CC-BY-SA 3.0 license can be viewed at
+[https://github.com/lcyvin/warped-world-rpg/blob/main/LICENSE](https://github.com/lcyvin/warped-world-rpg/blob/main/LICENSE).
 

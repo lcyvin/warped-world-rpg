@@ -48,8 +48,11 @@ h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
 .hide-boring .boring { display: none; }
 .hidden { display: none !important; }
 
-h2, h3 { margin-block-start: 2.5em; }
-h4, h5 { margin-block-start: 2em; }
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1;
+}
+h2, h3 { margin-block-start: 2em; }
+h4, h5 { margin-block-start: 1.75em; }
 
 .header + .header h3,
 .header + .header h4,
@@ -105,9 +108,10 @@ h6:target::before {
     max-width: var(--content-max-width);
 }
 .content p { line-height: 1.75em; }
-.content ol { line-height: 1.45em; }
-.content ul { line-height: 1.45em; }
+.content ol { line-height: 1.75em; }
+.content ul { line-height: 1.75em; }
 .content a { text-decoration: none; }
+.content a { white-space: nowrap; }
 .content a:hover { text-decoration: underline; }
 .content img, .content video { max-width: 100%; }
 .content .header:link,
@@ -182,6 +186,35 @@ blockquote {
 
 blockquote .warning:before {
     background-color: var(--quote-bg);
+}
+
+.note {
+  margin: 20px;
+  padding: 0 20px;
+  border-inline-start: 2px solid var(--note-border);
+}
+
+.note:before {
+  position: absolute;
+  width: 3rem;
+  height: 3rem;
+  margin-inline-start: calc(-1.5rem - 21px);
+  content: "ⓘ";
+  text-align: center;
+  background-color: var(--bg);
+  color: var(--note-border);
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+blockquote .note:before {
+  background-color: var(--quote-bg)
+}
+
+.note-title {
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 1rem;
 }
 
 kbd {
