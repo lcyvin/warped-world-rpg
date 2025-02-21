@@ -7,7 +7,7 @@
   - [Responsible Roleplaying](./before_you_play/responsible_roleplaying.md)
   - [Basic Terminology](./before_you_play/basic_terminology.md)
   - [Using This Book](./before_you_play/using_this_book.md)
-- [Perparing Your Game](./game-prep/intro.md)
+- [Perparing Your Game](./game_prep/intro.md)
 
 ---
 
