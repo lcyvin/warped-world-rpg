@@ -6,4 +6,4 @@ src = "src"
 title = "Warped World: An SCP Tabletop Roleplaying Game"
 
 [output.html]
-default-theme = "rust"
+default-theme = "wanderer"
