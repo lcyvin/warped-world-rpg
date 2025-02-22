@@ -20,3 +20,15 @@ Please ensure any PRs follow the following standards for content:
 - Any excerpts or content additions such as game starters or supplements must be original
   works or otherwise be directly attributed to their authors and be used with explicit
   permission.
+
+## Roadmap
+
+- [ ] Port existing content from the old docs
+- [ ] Fix/improve mobile display
+- [ ] Finish out core ruleset for playing as anomalous entities
+- [ ] Write campaign starter
+- [ ] Create print version
+- [ ] Create character sheets
+  - [ ] Print version
+  - [ ] Web version
+- [ ] Create pocket edition/reference version rulebook
