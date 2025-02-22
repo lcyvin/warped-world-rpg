@@ -29,7 +29,10 @@ Please ensure any PRs follow the following standards for content:
 ### Requirements
 
 In order to render a local version of the book, you will need to install the
-mdbook rust package from cargo or your package manager.
+mdbook rust package from cargo or your package manager. Currently, the github
+actions build/deploy workflow utilizes the 0.4.45 version. Be sure to ensure
+there are not breaking changes between the version you are using and the one the
+runner uses if your local version does not match the workflow's.
 
 #### Arch Linux:
 
