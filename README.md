@@ -1,6 +1,11 @@
 # Warped World RPG mdbook Repo
 
 This repo contains the mdbook source for the Warped World RPG online sourcebook.
+Warped world is a standalone, scratch-built tabletop roleplaying game designed
+to handle a number of different possible game types one could want to play
+within the broad fiction SCP provides. For more information or to read the most
+up-to-date version of the sourcebook, see
+[warpedworldrpg.com](https://warpedworldrpg.com).
 
 ## Contributing
 
@@ -9,7 +14,7 @@ and open a PR with your changes after submitting an issue or RFC to allow for di
 Minor changes, like typos and gramatical fixes, may not need an opened issue/RFC,
 depending on the scope and nature of the change.
 
-### Editor Setup
+### Editor Setup & Style Guide
 
 Please ensure any PRs follow the following standards for content:
 
@@ -20,6 +25,29 @@ Please ensure any PRs follow the following standards for content:
 - Any excerpts or content additions such as game starters or supplements must be original
   works or otherwise be directly attributed to their authors and be used with explicit
   permission.
+
+### Requirements
+
+In order to render a local version of the book, you will need to install the
+mdbook rust package from cargo or your package manager.
+
+#### Arch Linux:
+
+mdbook can be installed from the `extra` repository:
+
+```
+sudo pacman -S mdbook
+```
+
+#### Cargo Package Manager:
+
+Using cargo, mdbook can be installed on most operating systems:
+
+```
+cargo install --version 0.4.45 mdbook
+```
+
+*for more installation options and information, see the [mdbook repository.](https://github.com/rust-lang/mdbook)*
 
 ## Roadmap
 
