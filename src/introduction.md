@@ -21,10 +21,11 @@ to deal with, and they’re currently banging at the door.
 </blockquote>
 
 ***Warped World*** is a standalone tabletop RPG which takes place in the warped, darkly 
-magical world of the SCP universe. This ruleset is designed to be fairly flexible in order
-to be able to support games in a myriad of different possible settings the SCP multiverse
-can provide, whether the desire is to run a dungeon-crawl campaign following a Foundation
-mobile task force, to an Anartist gang causing chaos for the U.I.U. and so much more.
+magical world of the SCP body of fiction. This ruleset is designed to be fairly flexible 
+in order to be able to support games in a myriad of different possible settings the SCP 
+'multiverse' can provide, whether the desire is to run a dungeon-crawl campaign following
+a Foundation mobile task force, to an Anartist gang causing chaos for the U.I.U. and so 
+much more.
 
 This book is provided for free, forever, online at
 [warpedworldrpg.com/](https://warpedworldrpg.com). The source for this book is
