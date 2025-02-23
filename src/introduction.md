@@ -1,3 +1,4 @@
+{{#title Warped World RPG}}
 # Introduction
 
 <blockquote class="excerpt">
@@ -34,6 +35,7 @@ This book is a non-commercial passion project started by Lucy Vin, who can be fo
 [lucyvin.com/](https://lucyvin.com).
 
 ## Content Warning
+
 This book contains themes relating to distortion of reality, and mental manipulation. 
 
 ## Attribution

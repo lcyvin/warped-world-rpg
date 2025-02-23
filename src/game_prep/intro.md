@@ -47,7 +47,7 @@ it can be!
 
 In order to help bring the world you all will build to life, establishing a set of
 important events or notable elements wihin that world is important. Things like
-broken-masquerade events [[see glossary](/errata/glossary.md#broken-masquerade)], recent
+broken-masquerade events *[[glossary](/errata/glossary.md#broken-masquerade)]*, recent
 anomalous sightings, and even political shake-ups can all serve to add dynamism and flavor
 to the narrative you will bring to life, and allow the players and GM space to improvise
 when things inevitably go off the rails.
@@ -59,7 +59,7 @@ bit of time getting to know what each player would like to experience out of the
 Note that this doesn't necessarily mean asking the players for exact plot events, catering
 your collaborative narrative to incorporate elements that entice players helps to ensure
 everyone stays engaged and interested. For instance, a player might desire to explore what
-an interaction between the U.I.U. [glossary](/errata/glossary.md#unusual-incidents-unit)
+an interaction between the U.I.U. *[[glossary](/errata/glossary.md#unusual-incidents-unit)]*
 and a group of paratechnology hackers would look like. These desired elements can help the
 GM flesh out the planned story and its various branches and subplots.
 
@@ -71,3 +71,26 @@ left out of the game, or handled with care. Later in this chapter there will be 
 "session-zero" which will depict what this can look like. Remember to be considerate and
 empathetic whilst having these discussions. Everyone has their own sensitivities and
 limits, and being mindful of that can help to ensure a fun and trouble-free game!
+
+## Discuss Your Characters or Character Plans
+
+Session zeros can look different from group to group, and players may be just as likely
+to come to the table with already prepared characters and backstories as they are to 
+show up without even the vaguest hint of the character they want to create. Either of
+these possibilities can be fine, depending on how the group and GM like to operate. If you
+wish for everyone to show up to the table with fully ready-to-play characters, make sure
+to communicate that! However, it can be very helpful to come up with the more concrete
+character elements together as the group discusses the general 'shape' of the game and the
+world, especially as relates to how the various player characters know each other and what
+brings them all into the same mission.
+
+## What Brings the Group Together
+
+This goes hand-in-hand with discussing your characters, but discussing how the party has
+formed within the context of the narrative will help to facilitate a smooth transition
+into the game's world and story. This might be as simple as all the characters being
+assigned to the same task force, to a complicated web of interpersonal relationships and
+motives. Discussing this ahead of time will give players a chance not only to flesh out
+their own characters and their backstories, but also provide room for players to veto
+anything they might feel uncomfortable with (for example, someone may suggest that two
+characters dated in the past, while the other player does not feel comfortable with this).
