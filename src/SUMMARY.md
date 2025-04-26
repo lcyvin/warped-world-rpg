@@ -8,8 +8,11 @@
   - [Basic Terminology](./before_you_play/basic_terminology.md)
   - [Using This Book](./before_you_play/using_this_book.md)
 - [Preparing Your Game](./game_prep/intro.md)
+  - [Example Session Zero](./game_prep/example_session_zero.md)
+  - [Character Creation](./game_prep/creating_player_characters.md)
 
 ---
 
 # Errata
 - [Glossary](./errata/glossary.md)
+- [Alternate Starts](./errata/alternate_starts.md)

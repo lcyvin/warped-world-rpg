@@ -84,7 +84,7 @@ character elements together as the group discusses the general 'shape' of the ga
 world, especially as relates to how the various player characters know each other and what
 brings them all into the same mission.
 
-## What Brings the Group Together
+## What Brings the Group Together?
 
 This goes hand-in-hand with discussing your characters, but discussing how the party has
 formed within the context of the narrative will help to facilitate a smooth transition
