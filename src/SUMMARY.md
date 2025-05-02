@@ -10,7 +10,9 @@
 - [Preparing Your Game](./game_prep/intro.md)
   - [Example Session Zero](./game_prep/example_session_zero.md)
   - [Character Creation](./game_prep/creating_player_characters.md)
-
+  - [Backgrounds](./game_prep/backgrounds/intro.md)
+    - [Researcher](./game_prep/backgrounds/researcher.md)
+    - [Field Agent](./game_prep/backgrounds/field_agent.md)
 ---
 
 # Errata
