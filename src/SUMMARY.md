@@ -13,6 +13,7 @@
   - [Backgrounds](./game_prep/backgrounds/intro.md)
     - [Researcher](./game_prep/backgrounds/researcher.md)
     - [Field Agent](./game_prep/backgrounds/field_agent.md)
+    - [Thaumatologist](./game_prep/backgrounds/thaumatologist.md)
 ---
 
 # Errata
