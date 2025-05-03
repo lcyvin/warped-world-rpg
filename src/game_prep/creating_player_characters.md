@@ -77,6 +77,8 @@ allows for exciting and unexpected success on even the weakest of a character's 
 | Diplomacy   |                                       speech, deception, social grace |
 | Anomaly     | thaumatology workings, reality bending, anomalous and magical actions |
 
+<br />
+
 | **Die** | **Relative Strength** |
 | :------ | --------------------: |
 | D4      | This is a weak point for the character. They are not highly adept in this regard, and may not be able to pass anything but the easiest possible check. |
