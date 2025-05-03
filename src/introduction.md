@@ -37,7 +37,8 @@ This book is a non-commercial passion project started by Lucy Vin, who can be fo
 
 ## Content Warning
 
-This book contains themes relating to distortion of reality, and mental manipulation. 
+This book contains themes relating to distortion of reality, general horror, and mental 
+manipulation. Additionally, this book contains frequent use of strong language. 
 
 ## Attribution
 
