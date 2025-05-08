@@ -15,7 +15,7 @@ suspense. The basic structure of the game is as follows:
    or is acted upon and must react or resist that action, a roll is made. This could be
    the player trying to search a room for an alarm system, or an enemy attempting to
    grapple a player character.
-4. The narrative continues in this way until the session ends. See (ending a session)[/playing_the_game/ending_a_session.md]
+4. The narrative continues in this way until the session ends. See [ending a session](/playing_the_game/ending_a_session.md)
 
 The aim of the game is to create an emergent narrative together, with the players and GM
 working together towards this goal. The narrative that the players and GM craft and
@@ -23,7 +23,7 @@ navigate will shift and change as the group attempts to achieve their goals, enc
 challenges, and shape their world. Unlike some more traditional tabletop RPGs which have
 specified moves for individual actions, Warped World focuses on the narrative experience
 and leaves much of the roll-based decision-making to the players and GM. With the
-exception of combat, which will be covered in the (Fighting)[/playing_the_game/fighting.md]
+exception of combat, which will be covered in the [Fighting](/playing_the_game/fighting.md)
 section, actions that player and non-player characters can take are largely at the
 discretion of the group. We will get into the specifics shortly, but as a golden rule,
 play occurs in such a way that what you describe a character doing *is* what they do, or
