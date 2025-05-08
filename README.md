@@ -73,8 +73,10 @@ cargo install --version 0.4.45 mdbook
 
 The following items are open to any interested contributors as elements of the Warped
 World game reference to be improved upon as content is still being ported. Of course,
-contributions to other parts of this book are welcoomed as well, but these may give
+contributions to other parts of this book are welcomed as well, but these may give
 interested parties a place to start.
 
 - Improve Anartist Background: revise/update proficiency flavor text(s)
 - Expand Glossary and Basic Terminology reference sections
+- Improve CSS theming and responsive layouts
+- Add dark version of the customized 'wanderer' theme
