@@ -87,7 +87,7 @@ allows for exciting and unexpected success on even the weakest of a character's 
 | D12     | This is an above-average stat for the character. They are fairly adept at tasks related to this stat, but may still struggle with more advanced tasks. |
 | D20     | This is an excellent stat for the character. They are highly adept with the stat, and will find most tasks related to it relatively easy to complete. |
 
-## Caracter Information and Backstory
+## Character Information and Backstory
 
 Now's the time to flesh out your character! Give them a name, describe what they look like
 and give them some backstory so the other players and the GM can learn a bit about who

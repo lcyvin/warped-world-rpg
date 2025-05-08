@@ -17,6 +17,9 @@
     - [Reality Bender](./game_prep/backgrounds/reality_bender.md)
     - [Anartist](./game_prep/backgrounds/anartist.md)
 - [Playing the Game](./playing_the_game/intro.md)
+  - [Dice Rolls](./playing_the_game/dice_rolls.md)
+  - [Check Difficulty and Results](./playing_the_game/checks_and_outcomes.md)
+
 ---
 
 # Errata
