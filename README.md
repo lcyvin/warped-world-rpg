@@ -55,6 +55,11 @@ cargo install --version 0.4.45 mdbook
 ## Roadmap
 
 - [ ] Port existing content from the old docs
+  - [X] Introduction
+  - [X] Game Setup
+  - [X] Character Backgrounds
+  - [ ] Gameplay Mechanics
+  - [ ] Progression and Leveling
 - [ ] Fix/improve mobile display
 - [ ] Finish out core ruleset for playing as anomalous entities
 - [ ] Write campaign starter
@@ -63,3 +68,13 @@ cargo install --version 0.4.45 mdbook
   - [ ] Print version
   - [ ] Web version
 - [ ] Create pocket edition/reference version rulebook
+
+## Suggested Contributions
+
+The following items are open to any interested contributors as elements of the Warped
+World game reference to be improved upon as content is still being ported. Of course,
+contributions to other parts of this book are welcoomed as well, but these may give
+interested parties a place to start.
+
+- Improve Anartist Background: revise/update proficiency flavor text(s)
+- Expand Glossary and Basic Terminology reference sections

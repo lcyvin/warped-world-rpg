@@ -15,6 +15,7 @@
     - [Field Agent](./game_prep/backgrounds/field_agent.md)
     - [Thaumatologist](./game_prep/backgrounds/thaumatologist.md)
     - [Reality Bender](./game_prep/backgrounds/reality_bender.md)
+    - [Anartist](./game_prep/backgrounds/anartist.md)
 ---
 
 # Errata
