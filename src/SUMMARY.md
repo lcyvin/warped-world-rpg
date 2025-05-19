@@ -19,6 +19,7 @@
 - [Playing the Game](./playing_the_game/intro.md)
   - [Dice Rolls](./playing_the_game/dice_rolls.md)
   - [Check Difficulty and Results](./playing_the_game/checks_and_outcomes.md)
+  - [Combat](./playing_the_game/combat.md)
 
 ---
 
