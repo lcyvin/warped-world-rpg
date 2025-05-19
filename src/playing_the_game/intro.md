@@ -23,7 +23,7 @@ navigate will shift and change as the group attempts to achieve their goals, enc
 challenges, and shape their world. Unlike some more traditional tabletop RPGs which have
 specified moves for individual actions, Warped World focuses on the narrative experience
 and leaves much of the roll-based decision-making to the players and GM. With the
-exception of combat, which will be covered in the [Fighting](/playing_the_game/fighting.md)
+exception of combat, which will be covered in the [Combat](/playing_the_game/combat.md)
 section, actions that player and non-player characters can take are largely at the
 discretion of the group. We will get into the specifics shortly, but as a golden rule,
 play occurs in such a way that what you describe a character doing *is* what they do, or
