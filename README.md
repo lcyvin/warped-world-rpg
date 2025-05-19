@@ -58,7 +58,7 @@ cargo install --version 0.4.45 mdbook
   - [X] Introduction
   - [X] Game Setup
   - [X] Character Backgrounds
-  - [ ] Gameplay Mechanics
+  - [X] Gameplay Mechanics
   - [ ] Progression and Leveling
 - [ ] Fix/improve mobile display
 - [ ] Finish out core ruleset for playing as anomalous entities
