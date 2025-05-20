@@ -20,6 +20,9 @@
   - [Dice Rolls](./playing_the_game/dice_rolls.md)
   - [Check Difficulty and Results](./playing_the_game/checks_and_outcomes.md)
   - [Combat](./playing_the_game/combat.md)
+  - [Ending a Session](./playing_the_game/ending_a_session.md)
+  - [Progression](./playing_the_game/progression.md)
+    - [Explosive Protagonist](./playing_the_game/explosive_protagonist_progression.md)
 
 ---
 
