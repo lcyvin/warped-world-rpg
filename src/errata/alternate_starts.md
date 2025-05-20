@@ -50,5 +50,5 @@ number of ways depending on the planned campaign and setting. If the group  desi
 rapid progression, they may make use of an immediate improvement progression strategy – 
 where dice explosions immediately grant the player character the next level of stat die 
 to roll. In a slower progression setup, stat die explosions may need to occur a number
-of times before they may improve. For more detailed information on theoptions available,
-see Progression.
+of times before they may improve. For more detailed information on the options available,
+see [Progression](/playing_the_game/progression.md).
