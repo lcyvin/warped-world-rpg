@@ -8,7 +8,7 @@ section will not be relevant. For multi-session campaigns, a session end occurs 
 natural breakpoint between narrative "chapters". It is wise avoid ending a session in the
 midst of a scene or a battle, as trying to pick play back up a week, two weeks, or
 whatever your group's schedule may be in the midst of a complex situation with multiple
-"moving parts" is rather jarring and complex. Seek to end sessions at what might in a
+"moving parts" is rather jarring and unweildy. Seek to end sessions at what might in a
 written narrative constitute the end of a chapter. 
 
 Once a session ends, active gameplay is halted and character actions are no longer able to
