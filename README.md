@@ -54,12 +54,14 @@ cargo install --version 0.4.45 mdbook
 
 ## Roadmap
 
-- [ ] Port existing content from the old docs
+- [X] Port existing content from the old docs
   - [X] Introduction
   - [X] Game Setup
   - [X] Character Backgrounds
   - [X] Gameplay Mechanics
-  - [ ] Progression and Leveling
+  - [X] Progression and Leveling
+- [ ] Add additional progression systems
+- [ ] Add rules/guidelines for thaumatology, reality bending, and anart
 - [ ] Fix/improve mobile display
 - [ ] Finish out core ruleset for playing as anomalous entities
 - [ ] Write campaign starter
