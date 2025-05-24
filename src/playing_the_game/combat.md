@@ -20,11 +20,47 @@ is rolled according to the chart below.
 | D4         | Unarmed, small thrown objects, less-lethal weapons, non-weapon attacks when damage is a side effect |
 | D6         | Lighter blunt objects, short exposure to flame, mild electric shock, weaker poisons |
 | D8         | Small arms, thrown weapons, medium blunt objects, short blades |
-| D12        | Rifles, small or indirect explosions, high voltage, intense fire, heavy blunt objects, long blades, strong poisons, vital point strikes with sub-caliber ballistics |
+| D12        | Rifles, small or indirect explosions, high voltage, intense fire, heavy blunt objects, long blades, strong poisons, vital point strikes with pistol caliber ballistics |
 | D20        | Direct or large explosions, heavy arms, lightning strikes, vital point strikes with intermediate and large caliber ballistics |
 
 Once the damage die is rolled, any damage reduction through armor or anomalous means is
 subtracted. All remaining damage is dealt to the character. 
+
+<div class="note">
+  <p class="note-title">Ballistics Classifications</p>
+  In this book, ballistics will at times be referred to as "pistol", "intermediate", or
+  "full" caliber. These are commonly used classifications for the a given firearm's
+  cartridge and bullet size. You are welcome to explore these topics in depth if you
+  desire, but as a brief primer:
+
+  <ul>
+    <li><b>Pistol Caliber:</b> Typically designed for use in sidearms, intended to be 
+    effective at close range -- generally between 25 and 100 meters, though sometimes
+    greater.<br />
+    <li><b>Intermediate Caliber:</b> Intended for use in assault rifles and light machine
+    guns, intermediate caliber cartridges offer higher muzzel velocity and heavier bullet
+    weights compared to pistol cartridges. Typically designed for an effective range
+    between 300 and 600 meters, intermediate cartridge firearms are common service-issue
+    weapons in militaries accross the world. Notable examples include the AR-15, which is
+    chambered for 5.56x45mm cartridges, and the AK-47, chambered for 7.62x39mm
+    cartridges.<br />
+    <li><b>Full Caliber:</b> These cartridges are designed for use in "battle rifles" and
+    accuracy-over-distance oriented firearms like sniper and marksman rifles. They have a
+    much higher recoil than their intermediate counterparts, and typically propel much
+    larger, heavier bullets. Full caliber cartridges tend to have effective ranges
+    exceeding 800 meters. Notable examples of firearms that fire full-caliber cartridges
+    include the Lee Enfield rifle, chambered for the .303 british cartridge, and the FN
+    FAL, chambered for the 7.62x51mm cartridge.
+  </ul>
+
+  Of course, even small pistol caliber cartridges are dangerous and can be lethal, and the
+  impact and kinetic dispersion characteristics of different cartridges vary wildly,
+  depending on the intended purpose of the cartridge. Getting too deep into the weeds on
+  specific cartridges and even the specific bullets they fire can be a bit too "chunky"
+  for a tabletop game, so for the purpose of brevity we will stick to looking at the
+  umbrella designation of a given weapon's effectiveness. If you <i>want</i> to add that
+  fine detail to your game, by all means feel free.
+</div>
 
 ## Sneak Attacks
 

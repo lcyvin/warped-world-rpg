@@ -27,6 +27,7 @@ and research them; the G.O.C. tends to have much more of a "shoot first, ask que
 later" attitude. Their penchant for destroying or killing the anomalies they encounter has
 earned them a number of enemies within the larger fiction of the SCP multiverse.
 
+
 ## SCP Foundation
 
 The SCP Foundation is a secretive, non-government organization dedicated to the
@@ -36,7 +37,7 @@ and knowledge of the anomalous *(thus leading to the source of the SCP initialis
 for 'Secure, Contain, Protect')*. Known by a number of names to various different groups
 of interest, the Foundation operates in methodical, often clinical ways to further their
 mission. Stories about the foundation paint pictures of shadowy antiheros, unknown heros
-saving the world, and beauracratic insanity, as well as so much else. The foundation looks
+saving the world, and bureaucratic insanity, as well as so much else. The foundation looks
 a little bit different in every author's conception of them, but some elements remain
 more-or-less the same across the board. Secrecy, the O5 governing council, and a penchant
 for at time questionable ethics tend to be quite common within the landscape of available
@@ -48,7 +49,7 @@ fiction.
 The Unusual Incidents Unit, or U.I.U., are a secretive branch within the FBI, dedicated to
 the investigation of crimes committed by or involving the paranormal and anomalous.
 Depictions of the U.I.U. within the SCP 'multiverse' run the gamut from a bunch of 
-bumbling and underfunded, to scrappy and perservering-against-all-odds cops. Occasionally,
+bumbling and underfunded, to scrappy and persevering-against-all-odds cops. Occasionally,
 the U.I.U. may cooperate with groups like the [SCP Foundation](#scp-foundation), the 
 [G.O.C.](#global-occult-coalition), and others in the interest of handling a case, but
 often operate on their own and often armed with not much more than their own knowledge and
