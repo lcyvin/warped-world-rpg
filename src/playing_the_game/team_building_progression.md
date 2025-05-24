@@ -54,7 +54,7 @@ costs.
 When used, allows the group to re-attempt a group check. May not be used more than once
 consecutively.
 
-**Otherworldly Favor**
+**Otherworldly Favor**    
 **Cost:** 40 help die **|** **Use:** Once per character per session    
 When used, add a help die to the roll *even if no character has any help die in their
 pool*. Can be stacked with player help die. 
