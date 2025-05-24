@@ -23,6 +23,7 @@
   - [Ending a Session](./playing_the_game/ending_a_session.md)
   - [Progression](./playing_the_game/progression.md)
     - [Explosive Protagonist](./playing_the_game/explosive_protagonist_progression.md)
+    - [Team Building](./playing_the_game/team_building_progression.md)
 
 ---
 
