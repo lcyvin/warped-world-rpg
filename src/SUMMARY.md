@@ -22,11 +22,14 @@
   - [Combat](./playing_the_game/combat.md)
   - [Ending a Session](./playing_the_game/ending_a_session.md)
   - [Progression](./playing_the_game/progression.md)
-    - [Explosive Protagonist](./playing_the_game/explosive_protagonist_progression.md)
-    - [Team Building](./playing_the_game/team_building_progression.md)
 
 ---
 
 # Errata
 - [Glossary](./errata/glossary.md)
 - [Alternate Starts](./errata/alternate_starts.md)
+- [Progression Systems](./errata/progression_systems/intro.md)
+  - [Explosive Protagonist](./errata/progression_systems/explosive_protagonist.md)
+  - [Team Building](./errata/progression_systems/team_building.md)
+
+
