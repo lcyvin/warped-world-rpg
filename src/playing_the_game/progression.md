@@ -21,8 +21,8 @@ particular story.
 Progression events are exactly what they sound like: events that occur during the
 narrative which count towards improvement of a character's stats. This can be either 
 instantaneous improvement, or contribute to a threshold that must be passed in order to
-grant progression of a stat die. Whether a group decides to utilise individual progression
-events, or thresholded progression is dependant on the desired feel and length of the 
+grant progression of a stat die. Whether a group decides to utilize individual progression
+events, or thresholded progression is dependent on the desired feel and length of the 
 campaign. 
 
 Dice explosion is the most immediately tangible kind of progression event -- a player
