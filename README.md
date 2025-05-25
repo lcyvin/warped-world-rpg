@@ -26,6 +26,9 @@ Please ensure any PRs follow the following standards for content:
   works or otherwise be directly attributed to their authors and be used with explicit
   permission.
 
+For further information regarding the contribution process, see [contributing](https://warpedworldrpg.com/errata/contributing/intro.html)
+within the source book.
+
 ### Requirements
 
 In order to render a local version of the book, you will need to install the
