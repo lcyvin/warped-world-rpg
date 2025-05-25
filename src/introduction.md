@@ -45,7 +45,7 @@ manipulation. Additionally, this book contains frequent use of strong language.
 Content relating to the SCP Foundation, including the SCP Foundation logo, is licensed
 under Creative Commons Sharealike 3.0 and all concepts originate from 
 [www.scp-wiki.wikidot.com](https://www.scp-wiki.wikidot.com/) and its authors. 
-Warped World, being derived from  this content, is hereby also released under Creative
+Warped World, being derived from this content, is hereby also released under Creative
 Commons Sharealike 3.0. 
 
 A full copy of the CC-BY-SA 3.0 license can be viewed at
