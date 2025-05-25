@@ -22,6 +22,7 @@
   - [Combat](./playing_the_game/combat.md)
   - [Ending a Session](./playing_the_game/ending_a_session.md)
   - [Progression](./playing_the_game/progression.md)
+- [Working With Anomalies](./anomalies/intro.md)
 
 ---
 
@@ -31,5 +32,6 @@
 - [Progression Systems](./errata/progression_systems/intro.md)
   - [Explosive Protagonist](./errata/progression_systems/explosive_protagonist.md)
   - [Team Building](./errata/progression_systems/team_building.md)
-
-
+- [Contributing](./errata/contributing/intro.md)
+  - [Changes, Fixes, and Improvements](./errata/contributing/changes.md)
+  - [Supplements and Remixes](./errata/contributing/supplements_and_remixes.md)
