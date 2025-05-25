@@ -3,14 +3,14 @@ name: "[RFC] System Change"
 about: A change to the core sourcebook's copy which directly impacts gameplay in some
   way
 title: "[RFC] System Change: description of system change"
-labels: ''
+labels: RFC, System Change
 assignees: ''
 
 ---
 
-## Chapter: [chapter]
-## Section: [section]
-## Subsection (if applicable): [subsection]
+**Chapter:** [chapter]
+**Section:** [section]
+**Subsection (if applicable):** [subsection]
 
 ## Proposed Change(s):
 Describe the changes you wish to make here, including justifications for these changes (playtest results, system interactions, etc.), and the changes desired effects. Please include whether or not you have playtested your changes, and if you have, describe the impact of the change on the gameplay experience. 
