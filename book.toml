@@ -1,5 +1,6 @@
 [book]
 authors = ["Lucy Vin"]
+description = "A rules-lite(ish) tabletop RPG for SCP related campaigns"
 language = "en"
 multilingual = false
 src = "src"
