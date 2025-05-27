@@ -64,9 +64,15 @@ cargo install --version 0.4.45 mdbook
   - [X] Gameplay Mechanics
   - [X] Progression and Leveling
 - [ ] Add additional progression systems
+  - [x] Economy progression
+  - [ ] Milestone progression
 - [ ] Add rules/guidelines for thaumatology, reality bending, and anart
-- [ ] Fix/improve mobile display
-- [ ] Finish out core ruleset for playing as anomalous entities
+  - [ ] Thaumatology
+  - [ ] Anart
+  - [ ] Reality Bending
+  - [ ] Paratechnology
+- [ ] Add rules/guidelines for anomalous entity encounters
+- [ ] Improve/tailor mobile display
 - [ ] Write campaign starter
 - [ ] Create print version
 - [ ] Create character sheets
@@ -77,9 +83,10 @@ cargo install --version 0.4.45 mdbook
 ## Suggested Contributions
 
 The following items are open to any interested contributors as elements of the Warped
-World game reference to be improved upon as content is still being ported. Of course,
-contributions to other parts of this book are welcomed as well, but these may give
-interested parties a place to start.
+World game reference to be improved upon as content is still being ported. These items of
+work can also be found with the "help wanted" label on the
+[issues](https://github.com/lcyvin/warped-world-rpg/issues) page of this
+repository.
 
 - Improve Anartist Background: revise/update proficiency flavor text(s)
 - Expand Glossary and Basic Terminology reference sections
