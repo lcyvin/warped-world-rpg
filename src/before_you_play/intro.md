@@ -9,7 +9,7 @@ guidance on player safety and comfort.
 
 The SCP universe is inherently without a concrete canon. It assumes that all multiverses
 are equally correct, simply reflecting different realities. This book uses a version of
-Three  Portlands, and a version of the Broken Mask timeline for its campaign starter and 
+Three Portlands, and a version of the Broken Mask timeline for its campaign starter 
 setting. This is a roleplaying game that is centered on collaborative storytelling
 and emergent narratives. Nothing in this book is set in stone, and you are able and
 encouraged to modify the setting, events, and rules of the world and game to fit your

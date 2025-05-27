@@ -4,19 +4,19 @@
 <blockquote class="excerpt">
 <p>
 The ever-constant rain lightly taps against the window of a dimly-lit studio in some back
-corner of the city. Against the far wall, a person sits hunched over a heap of twisted 
-metal. Sparks fly as they weld, lighting the room as though the storm’s lightning was 
-striking indoors. Maybe it was. A knock at the door startles the subject of our attention,
-who halts for a moment before ignoring the knocking and resuming work.
+corner of the city. Against the far wall, a figure sits hunched over a heap of twisted 
+metal. Sparks fly from a welding torch they hold, the room illuminating as though the 
+storm’s lightning is striking within its walls. Maybe it is. A knock at the door startles
+the subject of our attention, who halts for a moment before resuming their work.
 </p>
 <p>
-"U.I.U., open up!”, calls a voice from the other side of the door. 
+"U.I.U., open up!”, a voice cuts from the other side of the door. 
 </p>
 <p>
-The person stiffens, dropping their tools to the table. In a flash, they tear away their 
-welding mask revealing a scarred, semi-robotic face twisted in a scowl. They grab a 
-backpack off the bed as they race for the back door. There’s one group no Anartist wants 
-to deal with, and they’re currently banging at the door. 
+The figure stiffens, their tools falling to the table. In a flash, they are tearing 
+their welding mask away, revealing a scarred and semi-robotic face twisted in a  deep 
+scowl. Grabbing a backpack from a nearby bed, they race for the back door. There’s one
+group no Anartist wants to deal with, and they’re currently banging at the door. 
 </p>
 </blockquote>
 
@@ -28,17 +28,19 @@ a Foundation mobile task force, to an Anartist gang causing chaos for the U.I.U.
 much more.
 
 This book is provided for free, forever, online at
-[warpedworldrpg.com/](https://warpedworldrpg.com). The source for this book is
+[warpedworldrpg.com](https://warpedworldrpg.com). The source for this book is
 open to collaboration and can be found at
-[github.com/lcyvin/warped-world-rpg](https://github.com/lcyvin/warped-world-rpg). 
+[github.com/lcyvin/warped-world-rpg](https://github.com/lcyvin/warped-world-rpg).
+Guidelines for contribution may be reviewed in the [contributing](/errata/contributing/intro.md)
+section of this book.
 
 This book is a non-commercial passion project started by Lucy Vin, who can be found at
-[lucyvin.com/](https://lucyvin.com).
+[lucyvin.com](https://lucyvin.com).
 
 ## Content Warning
 
 This book contains themes relating to distortion of reality, general horror, and mental 
-manipulation. Additionally, this book contains frequent use of strong language. 
+manipulation. Additionally, this book contains occasional use of strong language. 
 
 ## Attribution
 

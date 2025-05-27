@@ -1,10 +1,11 @@
 # Preparing Your Game
 
 Roleplaying games involve a lot of improvisation and collaboration, but proper 
-preparation will make this experience much more enjoyable, especially for new GMs.
-Whether you have a storyline planned out or are building off your players’ desires, a
-session 0 is key to this prep. Before your actual game begins, gather your players and
-discuss the following:
+preparation will make this experience much more enjoyable, especially for new GMs and
+players. Whether a storyline is already planned out or you are plannign to build one 
+from your player's desired experience, a session 0 is a key element of preparation. 
+Before your actual game begins, gather your players and discuss some or all of the 
+following:
 
 - What setting do we want to play in? What is the time period?
 - What tone do we want to set for this game?
