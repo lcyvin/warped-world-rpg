@@ -23,6 +23,7 @@
   - [Ending a Session](./playing_the_game/ending_a_session.md)
   - [Progression](./playing_the_game/progression.md)
 - [Working With Anomalies](./anomalies/intro.md)
+  - [Thaumatology and Workings](./anomalies/thaumatology_and_workings.md)
 
 ---
 
