@@ -14,7 +14,7 @@ But first, a note: Warped World is designed to be fairly flexible and loose with
 character creation in order to allow for a lot of wiggle-room with your character’s 
 backstory and how they are played. Warped World’s core motive is to trust the player and 
 GM to collaboratively navigate the narrative that is being created, and allows for a high
-degree of freedom in regards to the mechanics that control character creation and 
+degree of freedom with regard to the mechanics that control character creation and 
 interaction.
 
 ## Pick a Character Background

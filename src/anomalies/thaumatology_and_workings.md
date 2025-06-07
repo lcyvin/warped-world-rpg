@@ -91,3 +91,15 @@ system.
   <b>Large Focus:</b>&nbsp;A focus which would require multiple people or hauling 
   equipment to move. 
 </div>
+
+## Relative Working Difficulties
+
+As a quick reference in order to ease the determination of what difficulty a given working
+a character might attempt should be, feel free to refer to the following chart of examples
+at each dice check.
+
+| DC  | Example Working |
+| :-- | --: |
+| D4  | Moving a light object within throwing distance; Amplifying a character's speech to a yelling volume |
+| D6  | Conjuring a small flame in a character's hand; Augmenting a character's containment ability by +1 |
+| D8  | 

@@ -29,7 +29,7 @@
 Reality Benders, also known as Type Greens by the G.O.C., possess an innate ability to
 warp the world and minds around them. They are expert manipulators and can wield immense
 power. With the capability of influencing people's whims and bending the world around them
-to their needs, beality benders make excellent spies, special agents, and salespeople.
+to their needs, reality benders make excellent spies, special agents, and salespeople.
 Play a reality bender if you want to make people question *everything*.
 
 ### Modifier: Diplomacy
