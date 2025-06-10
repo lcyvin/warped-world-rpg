@@ -96,16 +96,38 @@ receive a large boost to their chance of success through a major act of teamwork
 ## Group Checks
 
 When a group of players encounters an effect, takes a group action, or otherwise is put
-into a scenario where the success of a single player is irrelavent, the GM may ask for a
+into a scenario where the success of a single player is irrelevant, the GM may ask for a
 group check. This can take two forms, depending on the scenario. The group will either add
 all of their results together, and compare that value against the difficulty set by the
-GM; or the grou pwill make individual checks against a set difficulty, and either pass or
+GM; or the group will make individual checks against a set difficulty, and either pass or
 fail the check depending on what proportion of the group succeeds (E.G., half must succeed
-to pass the check). During a group roll, help die may still be spent. 
+to pass the check). It is possible for events that can be handled as group checks to still
+be done as individual checks, or vice versa, depending on the specific circumstances of
+the narrative or decisions of the GM and players.
+
+**Cumulative Group Check**    
+A cumulative group check generally occurs in moments where a group of two or more
+characters are involved in a circumstance where the bar for success is gated purely on the
+level of effort the group is capable of expending. These checks typically exceed the
+normal range of difficulty compared to what a single individual could be expected to
+accomplish. For instance, team-lifting a heavy object might have a DC of 35 set by the GM,
+requiring the total combined value of all involved characters' rolls to exceed that
+threshold. 
+
+**Proportional Group Check**    
+A proportional group check generally occurs at times when group cohesion is the main
+determining factor for success. In such a case, the specific performance of any one 
+character within the group is less relevant than the broader perception of the group
+itself. When a proportional check occurs, all players individually attempt to pass the set
+difficulty, and the final result is determined by what fraction of the group succeeded.
+Checks of this nature are not typically set at difficulties exceeding what might be
+encountered during normal play except in extreme circumstances.
 
 ## Contested Checks
 
 At times when actions occur between players or characters that can be blocked, dodged, or
 otherwise effected or avoided, a contested check may occur. Rather than rolling against a
 static difficulty, each party rolls their relevant stat die, with the higher value
-suceeding. When a tie occurs, the success goes to the defending party.
+succeeding. When a tie occurs, the success goes to the defending party. If there is no
+defending party, such as a strength-vs-strength competition like arm wrestling, a tie
+results in a repeated check or stalemate. 
