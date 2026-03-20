@@ -4,8 +4,7 @@ This repo contains the mdbook source for the Warped World RPG online sourcebook.
 Warped world is a standalone, scratch-built tabletop roleplaying game designed
 to handle a number of different possible game types one could want to play
 within the broad fiction SCP provides. For more information or to read the most
-up-to-date version of the sourcebook, see
-[warpedworldrpg.com](https://warpedworldrpg.com).
+up-to-date version of the sourcebook, see [warpedworldrpg.com](https://warpedworldrpg.com).
 
 ## Contributing
 
@@ -63,11 +62,11 @@ cargo install --version 0.4.45 mdbook
   - [X] Character Backgrounds
   - [X] Gameplay Mechanics
   - [X] Progression and Leveling
-- [ ] Add additional progression systems
+- [x] Add additional progression systems
   - [x] Economy progression
-  - [ ] Milestone progression
+  - [x] Milestone progression
 - [ ] Add rules/guidelines for thaumatology, reality bending, and anart
-  - [ ] Thaumatology
+  - [x] Thaumatology
   - [ ] Anart
   - [ ] Reality Bending
   - [ ] Paratechnology
