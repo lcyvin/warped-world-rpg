@@ -9,9 +9,8 @@ SCP-specific terminology as referenced by this book, see the
 ## GM - Game Mediator
 
 This is the person who is running the tabletop game, managing all the behind-the-scenes
-processes from narrating the world and its non-player characters
-([NPCs](#npc---non-player-character)), to
-mediating in-game actions and conflicts. Traditionally, the term "Game Master" has been
+processes from narrating the world and its non-player characters ([NPCs](#npc---non-player-character)), to mediating
+in-game actions and conflicts. Traditionally, the term "Game Master" has been
 used for this abbreviation, however in favor of language more in-line with the
 collaborative nature of tabletop roleplaying, Warped World uses "Game Mediator". You may
 also see other games refer to this as a *Warden*, *Arbiter*, *Dungeon Master*, *Dungeon

@@ -6,7 +6,7 @@
 >
 > “Shit shit shit… SHIT!” 
 >
-> Ze dug through hir field pack for the clip of thaum-unreality ammunition ze packed just
+> Ze dug through hir field pack for the magazine of thaum-unreality ammunition ze packed just
 > in case conventional munitions didn’t do the trick.
 >
 > “Fucking thaumaturge cultists,” 
@@ -67,7 +67,7 @@ but they exist for a reason.
 
 ***Intimidation and De-Escalation***
 
-&nbsp;&nbsp;&nbsp;&nbsp;Looking big and touch and scare does a lot in the way of opening
+&nbsp;&nbsp;&nbsp;&nbsp;Looking big and tough and scary does a lot in the way of opening
 doors, or convincing other people to open 'em for you. It helps when you have the training
 to back up your threats. There's a flip side to the coin, though. Sometimes it's better to
 avoid a fight entirely, and having the skills to reduce the temperature a bit goes a long

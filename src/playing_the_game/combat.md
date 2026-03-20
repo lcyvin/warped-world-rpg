@@ -36,9 +36,11 @@ subtracted. All remaining damage is dealt to the character.
   <ul>
     <li><b>Pistol Caliber:</b> Typically designed for use in sidearms, intended to be 
     effective at close range -- generally between 25 and 100 meters, though sometimes
-    greater.<br />
+    greater. Unlike higher-powered calibers, pistol caliber rounds typically lack many
+    characteristics for situations outside of personal self-defense, such as
+    armor-penetration.<br />
     <li><b>Intermediate Caliber:</b> Intended for use in assault rifles and light machine
-    guns, intermediate caliber cartridges offer higher muzzel velocity and heavier bullet
+    guns, intermediate caliber cartridges offer higher muzzle velocity and heavier bullet
     weights compared to pistol cartridges. Typically designed for an effective range
     between 300 and 600 meters, intermediate cartridge firearms are common service-issue
     weapons in militaries accross the world. Notable examples include the AR-15, which is
