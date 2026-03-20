@@ -120,6 +120,6 @@ even kill the "patient".
   like *memetics*. 
 </div>
 
-[^1]: A notable exception to this rule might be the "competative" TTRPG *Everyone Is
+[^1]: A notable exception to this rule might be the "competetive" TTRPG *Everyone Is
     John*, where the tedium of rolling for almost everything is offset by the inter-player
     competition.
