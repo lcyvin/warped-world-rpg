@@ -42,7 +42,7 @@ jobs:
         rustup default stable
     - name: Install latest mdbook
       run: |
-        tag="v$MDBOOK_VERSION"
+        tag="v${{env.MDBOOK_VERSION}}"
         url="https://github.com/rust-lang/mdbook/releases/download/${tag}/mdbook-${tag}-x86_64-unknown-linux-gnu.tar.gz"
         echo "Grabbing mdbook release from: $url"
         mkdir bin
