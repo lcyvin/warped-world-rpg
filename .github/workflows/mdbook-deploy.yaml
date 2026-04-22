@@ -29,7 +29,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  #
   build:
     name: Build
     runs-on: ubuntu-latest
@@ -58,27 +57,6 @@ jobs:
       with:
         path: ./book
       
-#  # Build job
-#  build:
-#    runs-on: ubuntu-latest
-#    env:
-#      MDBOOK_VERSION: 0.5.2
-#    steps:
-#      - uses: actions/checkout@v4
-#      - name: Install mdBook
-#        run: |
-#          wget -O mdbook.tar.gz https://github.com
-#      - name: Setup Pages
-#        id: pages
-#        uses: actions/configure-pages@v5
-#      - name: Build with mdBook
-#        run: mdbook build
-#      - name: Upload artifact
-#        uses: actions/upload-pages-artifact@v3
-#        with:
-#          path: ./book
-
-
   # Deployment job
   deploy:
     environment:
