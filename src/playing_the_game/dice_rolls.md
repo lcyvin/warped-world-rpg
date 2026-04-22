@@ -66,6 +66,26 @@ When a player character takes an action that uses a stat their background has a 
 for, any and all rolls are boosted by +2. This occurs regardless of what the stat die the
 player assigned to the stat is. You may have a modifier on your lowest-value stat.
 
+When rolling dice for an action which has a modifier, that modifier is applied *at the
+end* of the roll. That is, if a die is rolled and explodes, the modifier is only applied
+to the final *cumulative* outcome, and does not prevent dice explosion unless a condition
+explicity prevents it. 
+
+Modifiers may also be *negative*. For example, after sustaining a heavy injury which has
+reduced the character's mobility, a the *containment* stat may be negatively modified. If
+the *containment* stat had a modifier, that value is reduced by the injury (I.E., if the
+modifier was from a PC's background, and the injury imposes a -2 modifier, the PC would
+now roll *flat*. If the player character did not have a modifier for containment, it would
+be reduced to a modifier of -2). When a negative modifier is applied, it is not possible
+to roll lower than 1. 
+
+<div class="note">
+<p class="note-title">Temporary Modifiers</p>
+Modifiers do not exclusively need to come from a player's background. Additionally, some
+modifiers may only be *temporary*, such as those from a buffing effect or those related to
+conditions acquired during the course of the narrative. 
+</div>
+
 ## Help Dice
 
 Teamwork makes everything better, and help dice are how that is manifested within Warped
