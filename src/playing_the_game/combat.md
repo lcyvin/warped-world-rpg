@@ -38,21 +38,21 @@ subtracted. All remaining damage is dealt to the character.
     effective at close range -- generally between 25 and 100 meters, though sometimes
     greater. Unlike higher-powered calibers, pistol caliber rounds typically lack many
     characteristics for situations outside of personal self-defense, such as
-    armor-penetration.<br />
+    armor-penetration.</li><br />
     <li><b>Intermediate Caliber:</b> Intended for use in assault rifles and light machine
     guns, intermediate caliber cartridges offer higher muzzle velocity and heavier bullet
     weights compared to pistol cartridges. Typically designed for an effective range
     between 300 and 600 meters, intermediate cartridge firearms are common service-issue
     weapons in militaries accross the world. Notable examples include the AR-15, which is
     chambered for 5.56x45mm cartridges, and the AK-47, chambered for 7.62x39mm
-    cartridges.<br />
+    cartridges.</li><br />
     <li><b>Full Caliber:</b> These cartridges are designed for use in "battle rifles" and
     accuracy-over-distance oriented firearms like sniper and marksman rifles. They have a
     much higher recoil than their intermediate counterparts, and typically propel much
     larger, heavier bullets. Full caliber cartridges tend to have effective ranges
     exceeding 800 meters. Notable examples of firearms that fire full-caliber cartridges
     include the Lee Enfield rifle, chambered for the .303 british cartridge, and the FN
-    FAL, chambered for the 7.62x51mm cartridge.
+    FAL, chambered for the 7.62x51mm cartridge.</li>
   </ul>
 
   Of course, even small pistol caliber cartridges are dangerous and can be lethal, and the

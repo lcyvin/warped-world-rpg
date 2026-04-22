@@ -12,7 +12,7 @@ storm’s lightning has been brought within its walls.
 A knock at the door startles the subject of our attention, who halts for a moment
 before resuming their work.
 </p>
-</p>
+<!--</p>-->
 <p>
 "U.I.U., open up!”, a voice cuts from the other side. 
 </p>

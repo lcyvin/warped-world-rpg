@@ -32,7 +32,7 @@ within the source book.
 
 In order to render a local version of the book, you will need to install the
 mdbook rust package from cargo or your package manager. Currently, the github
-actions build/deploy workflow utilizes the 0.4.45 version. Be sure to ensure
+actions build/deploy workflow utilizes the 0.5.2 version. Be sure to ensure
 there are not breaking changes between the version you are using and the one the
 runner uses if your local version does not match the workflow's.
 
@@ -49,7 +49,7 @@ sudo pacman -S mdbook
 Using cargo, mdbook can be installed on most operating systems:
 
 ```
-cargo install --version 0.4.45 mdbook
+cargo install --version 0.5.2 mdbook
 ```
 
 *for more installation options and information, see the [mdbook repository.](https://github.com/rust-lang/mdbook)*

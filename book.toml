@@ -2,7 +2,7 @@
 authors = ["Lucy Vin"]
 description = "A rules-lite(ish) tabletop RPG for SCP related campaigns"
 language = "en"
-multilingual = false
+#multilingual = false
 src = "src"
 title = "Warped World: An SCP Tabletop Roleplaying Game"
 
