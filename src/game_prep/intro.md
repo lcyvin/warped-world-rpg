@@ -2,7 +2,7 @@
 
 Roleplaying games involve a lot of improvisation and collaboration, but proper 
 preparation will make this experience much more enjoyable, especially for new GMs and
-players. Whether a storyline is already planned out or you are plannign to build one 
+players. Whether a storyline is already planned out or you are planning to build one 
 from your player's desired experience, a session 0 is a key element of preparation. 
 Before your actual game begins, gather your players and discuss some or all of the 
 following:
